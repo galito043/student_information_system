@@ -1,0 +1,155 @@
+
+23621654
+6101057509
+Gilgamesh Aljabari
+6
+6
+6
+6
+6
+male
+18
+active
+23624567
+0608290398
+Alexander Aljabari
+6
+6
+6
+6
+6
+male
+26
+graduated
+23620001
+0607012664
+Teo Aljabari
+4
+4
+4
+4
+4
+male
+27
+dropout
+23621234
+0811175421
+Dimitar Ivanov
+5
+4
+5
+6
+4
+male
+23
+graduated
+23627890
+2705136806
+Elena Petrova
+3
+2
+2
+2
+2
+female
+19
+active
+23623456
+2911049098
+Stefan Georgiev
+6
+6
+6
+6
+6
+male
+18
+active
+23629999
+3506270434
+Maria Dimitrova
+5
+4
+4
+4
+4
+female
+20
+active
+23622678
+3510180201
+Milena Ivanova
+6
+6
+6
+6
+6
+female
+18
+active
+23621456
+3702185049
+Dimitar Petrov
+3
+3
+3
+3
+3
+male
+27
+active
+23628765
+3808229699
+Elena Dimitrova
+5
+5
+5
+5
+4
+female
+25
+graduated
+23624532
+4704024425
+Georgi Stefanov
+6
+6
+6
+6
+6
+male
+26
+dropout
+23620321
+7303013772
+Sofia Nikolova
+5
+4
+6
+4
+5
+female
+24
+dropout
+23622888
+8205200030
+Ivo Yordanov
+5
+5
+5
+5
+5
+male
+23
+graduated
+23622888
+8701234678
+Radost Hristova
+6
+6
+6
+6
+6
+female
+20
+graduated
